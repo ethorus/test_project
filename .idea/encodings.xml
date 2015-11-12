@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Coin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CompareCoin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/PrintArguments.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/ReadCharRunner.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Robot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Runner.java" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
